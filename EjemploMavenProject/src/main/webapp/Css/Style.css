@@ -1,0 +1,112 @@
+table, td, th {
+    border: 1px solid black;
+}
+
+table
+{
+	background-color: #ECF0F1;
+}
+
+th {
+    background-color: #F9690E;
+    color: white;
+}
+
+.titulo
+{
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+	text-align: center;
+}
+
+.body
+{
+  background-color: ##898989;
+  text-align: center
+  
+}
+body
+{
+	background-color: #141414;
+}
+
+a{
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+}
+
+h1
+{
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+}
+
+
+h2
+{
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-size: 50px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+	color: grey;
+}
+
+
+
+form
+{
+	background-color: #F9690E;
+	color:white;
+	 border: 1px solid white;
+	 display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+}
+
+form div label {
+  font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-size: 16px;
+	display: inline-block;
+	width: 140px; 
+	text-align: right;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+input[type=submit]
+{
+	background:#141414;
+	color: white;
+	
+}
+
+a
+{
+color: black;	
+}
+
+.acciones
+{
+	background:#898989;
+}
+
+.lista{
+	color:grey;
+}
